@@ -25,6 +25,15 @@ board = [
 - `valid(new, num, row, col)`: Checks if it's valid to place the number `num` in the cell at `(row, col)`.
 - `solve(new)`: Solves the Sudoku puzzle using backtracking.
 
+
+## How to Run
+
+To run the game, follow these steps:
+
+1. Ensure you have python3 is installed on your machine.
+2. Compile and run using `python3 Sudoku.py`.
+
+   
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
